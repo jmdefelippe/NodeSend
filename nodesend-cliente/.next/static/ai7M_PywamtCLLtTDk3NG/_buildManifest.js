@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a,b){return {"/":[a],"/crearcuenta":[a,b],"/enlaces/[enlace]":[a],"/index":[a],"/login":[a,b]}}("static\u002Fchunks\u002F92cbb70ca488066853e1801df60c64cf48cfcf60.d11a1c48155f8a13487b.js","static\u002Fchunks\u002F438cb0da617a1a415a89b37b4c30f521b3427fdc.eede6778a1595250bb6d.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
